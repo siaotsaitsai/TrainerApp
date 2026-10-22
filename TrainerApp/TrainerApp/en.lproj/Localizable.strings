@@ -1,0 +1,379 @@
+"Today" = "Today";
+"Calendar" = "Calendar";
+"Clients" = "Clients";
+"Insights" = "Insights";
+"Settings" = "Settings";
+"Your day, in motion." = "Your day, in motion.";
+"THIS MONTH" = "THIS MONTH";
+"Payments received" = "Payments received";
+"Sessions today" = "Sessions today";
+"Active clients" = "Active clients";
+"Book session" = "Book session";
+"Add client" = "Add client";
+"Today's schedule" = "Today's schedule";
+"A fresh start for your business." = "A fresh start for your business.";
+"A little breathing room." = "A little breathing room.";
+"Add your first client, sell a package, then book a session." = "Add your first client, sell a package, then book a session.";
+"No sessions today. Book your next training session." = "No sessions today. Book your next training session.";
+"Add your first client" = "Add your first client";
+"Needs a little attention" = "Needs a little attention";
+"sessions left" = "sessions left";
+"Sessions left" = "Sessions left";
+"due" = "due";
+"Expires soon" = "Expires soon";
+"Expired" = "Expired";
+"Awaiting automatic completion" = "Awaiting automatic completion";
+"min" = "min";
+"Client" = "Client";
+"Personal training" = "Personal training";
+"Scheduled" = "Scheduled";
+"Completed" = "Completed";
+"Client cancelled" = "Client cancelled";
+"Trainer cancelled" = "Trainer cancelled";
+"No-show" = "No-show";
+"Date" = "Date";
+"Previous week" = "Previous week";
+"Next week" = "Next week";
+"No sessions booked" = "No sessions booked";
+"Make room for progress. Add a session to your calendar." = "Make room for progress. Add a session to your calendar.";
+"Your people, all in one place." = "Your people, all in one place.";
+"Add your first client to get started." = "Add your first client to get started.";
+"Search clients" = "Search clients";
+"Outstanding balance" = "Outstanding balance";
+"Payment" = "Payment";
+"Packages" = "Packages";
+"Sell package" = "Sell package";
+"No packages yet. Add a package before booking sessions." = "No packages yet. Add a package before booking sessions.";
+"Session history" = "Session history";
+"No sessions yet." = "No sessions yet.";
+"Payment history" = "Payment history";
+"No payments yet." = "No payments yet.";
+"Client details" = "Client details";
+"Edit" = "Edit";
+"min / session" = "min / session";
+"remaining" = "remaining";
+"used" = "used";
+"booked" = "booked";
+"paid" = "paid";
+"Expires" = "Expires";
+"Period" = "Period";
+"This week" = "This week";
+"This month" = "This month";
+"vs. previous period" = "vs. previous period";
+"USD" = "USD";
+"Session revenue" = "Session revenue";
+"Includes charged cancellations" = "Includes charged cancellations";
+"Sessions completed" = "Sessions completed";
+"In this period" = "In this period";
+"Remaining sessions" = "Remaining sessions";
+"All-time balances, including expired packages." = "All-time balances, including expired packages.";
+"Payments follow the payment date. Session revenue follows the session date and package price. Refunds reduce payments received; these figures are not profit." = "Payments follow the payment date. Session revenue follows the session date and package price. Refunds reduce payments received; these figures are not profit.";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Client information" = "Client information";
+"Full name" = "Full name";
+"Email" = "Email";
+"Phone" = "Phone";
+"Training" = "Training";
+"Training goal" = "Training goal";
+"Notes" = "Notes";
+"Edit client" = "Edit client";
+"Package details" = "Package details";
+"Package name" = "Package name";
+"Sessions" = "Sessions";
+"Minutes per session" = "Minutes per session";
+"Total price (USD)" = "Total price (USD)";
+"Purchased" = "Purchased";
+"Package expires" = "Package expires";
+"Expiry date" = "Expiry date";
+"Paid now (USD)" = "Paid now (USD)";
+"Initial payment" = "Initial payment";
+"Leave payment at zero for an unpaid package. Gifted sessions can have a zero price." = "Leave payment at zero for an unpaid package. Gifted sessions can have a zero price.";
+"Method" = "Method";
+"Cash" = "Cash";
+"Card" = "Card";
+"Other" = "Other";
+"Package" = "Package";
+"Choose package" = "Choose package";
+"Record a refund" = "Record a refund";
+"Amount (USD)" = "Amount (USD)";
+"Payment date" = "Payment date";
+"Record payments made outside the app. No money is transferred. Refunds do not change session credits." = "Record payments made outside the app. No money is transferred. Refunds do not change session credits.";
+"Record payment" = "Record payment";
+"Who & when" = "Who & when";
+"Choose client" = "Choose client";
+"available" = "available";
+"Starts" = "Starts";
+"Duration (minutes)" = "Duration (minutes)";
+"Weekly occurrences" = "Weekly occurrences";
+"Location" = "Location";
+"Session notes" = "Session notes";
+"Each completed session uses 1 credit, regardless of duration. Booking reserves a credit without deducting it." = "Each completed session uses 1 credit, regardless of duration. Booking reserves a credit without deducting it.";
+"Edit session" = "Edit session";
+"Time" = "Time";
+"Duration" = "Duration";
+"Status" = "Status";
+"Deduct 1 session" = "Deduct 1 session";
+"Credits deducted" = "Credits deducted";
+"Save session update" = "Save session update";
+"After the session" = "After the session";
+"Saving completed deducts one session once. Restore to Scheduled to undo the deduction. Trainer cancellations never deduct credits." = "Saving completed deducts one session once. Restore to Scheduled to undo the deduction. Trainer cancellations never deduct credits.";
+"Edit booking" = "Edit booking";
+"Session details" = "Session details";
+"Preferences" = "Preferences";
+"Language" = "Language";
+"System default" = "System default";
+"24-hour time" = "24-hour time";
+"Currency" = "Currency";
+"Export backup (JSON)" = "Export backup (JSON)";
+"Try sample data" = "Try sample data";
+"Your data" = "Your data";
+"Saved on this device. No account or cloud sync. Export a backup regularly; deleting the app may remove local data." = "Saved on this device. No account or cloud sync. Export a backup regularly; deleting the app may remove local data.";
+"About" = "About";
+"Built for independent trainers. One place for your clients, sessions and payments." = "Built for independent trainers. One place for your clients, sessions and payments.";
+"Done" = "Done";
+"Try sample data?" = "Try sample data?";
+"Load samples" = "Load samples";
+"Adds three fictional clients with packages, payments and sessions to your empty workspace." = "Adds three fictional clients with packages, payments and sessions to your empty workspace.";
+"Something needs attention" = "Something needs attention";
+"OK" = "OK";
+"Enter a client name." = "Enter a client name.";
+"Check the package name, sessions, duration and amounts." = "Check the package name, sessions, duration and amounts.";
+"Expiry must be on or after the purchase date." = "Expiry must be on or after the purchase date.";
+"Enter a valid amount." = "Enter a valid amount.";
+"Payment exceeds the balance, or refund exceeds payments received." = "Payment exceeds the balance, or refund exceeds payments received.";
+"Choose a package and valid duration." = "Choose a package and valid duration.";
+"Not enough unbooked sessions. Add a package or release an existing booking." = "Not enough unbooked sessions. Add a package or release an existing booking.";
+"Choose a valid date." = "Choose a valid date.";
+"The session must fall within the package dates." = "The session must fall within the package dates.";
+"This time overlaps another booking. Choose a different time." = "This time overlaps another booking. Choose a different time.";
+"Restore the session to scheduled before editing." = "Restore the session to scheduled before editing.";
+"Session not found." = "Session not found.";
+"No unbooked sessions remaining in this package." = "No unbooked sessions remaining in this package.";
+"Future sessions cannot be marked completed or no-show." = "Future sessions cannot be marked completed or no-show.";
+"This backup version is not supported." = "This backup version is not supported.";
+"Unable to open saved data. Your original file is preserved." = "Unable to open saved data. Your original file is preserved.";
+"Could not save changes. Please try again." = "Could not save changes. Please try again.";
+"Enter valid numbers. Use at most two decimal places for USD." = "Enter valid numbers. Use at most two decimal places for USD.";
+"Could not export the backup. Please try again." = "Could not export the backup. Please try again.";
+"Sample mode" = "Sample mode";
+"Exit samples" = "Exit samples";
+"Explore three fictional clients. Sample changes stay in memory; exit samples to return to your empty workspace." = "Explore three fictional clients. Sample changes stay in memory; exit samples to return to your empty workspace.";
+"Package session" = "Package session";
+"Single session" = "Single session";
+"Free trial" = "Free trial";
+"Choose a package or paid single session." = "Choose a package or paid single session.";
+"Choose a client and valid duration." = "Choose a client and valid duration.";
+"Choose a client and enter a valid session price." = "Choose a client and enter a valid session price.";
+"Refund existing payments before reducing the session price." = "Refund existing payments before reducing the session price.";
+"Payment for" = "Payment for";
+"Session" = "Session";
+"New single session" = "New single session";
+"Session price (USD)" = "Session price (USD)";
+"Same as payment" = "Same as payment";
+"Creates a single-session booking with this payment. No package needed." = "Creates a single-session booking with this payment. No package needed.";
+"Session type" = "Session type";
+"Session price" = "Session price";
+"Free trials never charge money or deduct package credits." = "Free trials never charge money or deduct package credits.";
+"No package needed. Record payment now or after the session from the client page." = "No package needed. Record payment now or after the session from the client page.";
+"Enter a price above zero, or choose Free trial." = "Enter a price above zero, or choose Free trial.";
+"Charge session fee" = "Charge session fee";
+"Single sessions never deduct package credits. Completed paid sessions count toward revenue. Free or waived sessions earn zero; existing payments remain refundable." = "Single sessions never deduct package credits. Completed paid sessions count toward revenue. Free or waived sessions earn zero; existing payments remain refundable.";
+"No packages yet. Book a single session or free trial anytime." = "No packages yet. Book a single session or free trial anytime.";
+"Add your first client, then book a paid session, package session or free trial." = "Add your first client, then book a paid session, package session or free trial.";
+"Package credits left" = "Package credits left";
+"Explore fictional clients. Sample changes stay in memory; exit samples to return to your real workspace." = "Explore fictional clients. Sample changes stay in memory; exit samples to return to your real workspace.";
+"Tap to enter an amount in US dollars." = "Tap to enter an amount in US dollars.";
+"Collected before this entry" = "Collected before this entry";
+"Outstanding before this entry" = "Outstanding before this entry";
+"Current account summary" = "Current account summary";
+"Summary only. Enter the new payment or refund below." = "Summary only. Enter the new payment or refund below.";
+"Refund amount (USD)" = "Refund amount (USD)";
+"Amount received this time (USD)" = "Amount received this time (USD)";
+"Enter only the amount returned to the client this time." = "Enter only the amount returned to the client this time.";
+"Enter only the money received from the client this time." = "Enter only the money received from the client this time.";
+"Refund date" = "Refund date";
+"New refund" = "New refund";
+"New payment" = "New payment";
+"Record refund" = "Record refund";
+"Every session. Every dollar." = "Every session. Every dollar.";
+"Stay on schedule. Keep payments in check." = "Stay on schedule. Keep payments in check.";
+"Changes saved" = "Changes saved";
+"Session status & notes" = "Session status & notes";
+"Session reminders" = "Session reminders";
+"Remind me" = "Remind me";
+"Reminders queued" = "Reminders queued";
+"Notifications are blocked. Allow notifications in iPhone Settings to receive session reminders." = "Notifications are blocked. Allow notifications in iPhone Settings to receive session reminders.";
+"Open iPhone Settings" = "Open iPhone Settings";
+"Send test notification" = "Send test notification";
+"Test notification scheduled. Arrives in 5 seconds." = "Test notification scheduled. Arrives in 5 seconds.";
+"Retry reminders" = "Retry reminders";
+"Before your sessions" = "Before your sessions";
+"Local alerts work when the app is closed. The next 60 reminders refresh when you open the app. If the lead time has passed, the alert arrives at session start. Focus and notification settings may silence alerts." = "Local alerts work when the app is closed. The next 60 reminders refresh when you open the app. If the lead time has passed, the alert arrives at session start. Focus and notification settings may silence alerts.";
+"Reminder" = "Reminder";
+"Use default" = "Use default";
+"No reminder" = "No reminder";
+"At session start" = "At session start";
+"1 hour before" = "1 hour before";
+"1 day before" = "1 day before";
+"minutes before" = "minutes before";
+"Enable session reminders" = "Enable session reminders";
+"Before this session" = "Before this session";
+"Changing or cancelling a booking updates its reminder automatically." = "Changing or cancelling a booking updates its reminder automatically.";
+"Enable notifications to receive reminders. This preference is saved with your session." = "Enable notifications to receive reminders. This preference is saved with your session.";
+"Could not enable notifications. Please try again." = "Could not enable notifications. Please try again.";
+"Some reminders could not be scheduled. Open Settings to retry." = "Some reminders could not be scheduled. Open Settings to retry.";
+"Could not send the test notification. Please try again." = "Could not send the test notification. Please try again.";
+"Add to calendar" = "Add to calendar";
+"Add another calendar copy" = "Add another calendar copy";
+"Add updated calendar copy" = "Add updated calendar copy";
+"Last added" = "Last added";
+"Your calendar" = "Your calendar";
+"Choose a calendar and confirm in the next screen. Exports the saved session. Calendar copies do not sync with later edits or cancellations." = "Choose a calendar and confirm in the next screen. Exports the saved session. Calendar copies do not sync with later edits or cancellations.";
+"Add another calendar copy?" = "Add another calendar copy?";
+"Continue to calendar" = "Continue to calendar";
+"This session was previously added. A new copy will not update or remove the old calendar event." = "This session was previously added. A new copy will not update or remove the old calendar event.";
+"Cancelled and no-show sessions cannot be added to Calendar." = "Cancelled and no-show sessions cannot be added to Calendar.";
+"Your plan" = "Your plan";
+"Free" = "Free";
+"Checking subscription\u2026" = "Checking subscription…";
+"Unlimited clients with your Pro subscription." = "Unlimited clients with your Pro subscription.";
+"Manage 3 clients for free. Upgrade to Pro for unlimited clients." = "Manage 3 clients for free. Upgrade to Pro for unlimited clients.";
+"Manage Pro subscription" = "Manage Pro subscription";
+"Upgrade to Pro" = "Upgrade to Pro";
+"Your first 3 clients remain editable. Other clients stay available to view and export." = "Your first 3 clients remain editable. Other clients stay available to view and export.";
+"More clients. Choose the plan that fits." = "More clients. Choose the plan that fits.";
+"Unlimited clients" = "Unlimited clients";
+"Keep all your session and payment tools" = "Keep all your session and payment tools";
+"Your existing data stays with you" = "Your existing data stays with you";
+"Pro is active" = "Pro is active";
+"Manage subscription" = "Manage subscription";
+"year" = "year";
+"Annual subscription \u00b7 automatically renews" = "Annual subscription · automatically renews";
+"Subscribe annually" = "Subscribe annually";
+"Annual subscription" = "Annual subscription";
+"Price unavailable" = "Price unavailable";
+"Retry loading price" = "Retry loading price";
+"Restore purchases" = "Restore purchases";
+"Payment is charged to your Apple Account when you confirm. The subscription renews at the selected interval unless cancelled at least 24 hours before the current period ends. Manage or cancel in your App Store account settings." = "Payment is charged to your Apple Account when you confirm. The subscription renews at the selected interval unless cancelled at least 24 hours before the current period ends. Manage or cancel in your App Store account settings.";
+"Free includes 3 editable clients. If Pro expires, your first 3 clients remain editable; all other records can still be viewed and exported." = "Free includes 3 editable clients. If Pro expires, your first 3 clients remain editable; all other records can still be viewed and exported.";
+"Privacy policy" = "Privacy policy";
+"Terms of use" = "Terms of use";
+"Your subscription" = "Your subscription";
+"Client details, notes, sessions and payment records are stored locally on this device. Session Book has no developer-operated account server, advertising or analytics service." = "Client details, notes, sessions and payment records are stored locally on this device. Session Book has no developer-operated account server, advertising or analytics service.";
+"Apple processes subscription payments. The app uses verified StoreKit subscription information to determine Pro access; it does not receive your payment card details." = "Apple processes subscription payments. The app uses verified StoreKit subscription information to determine Pro access; it does not receive your payment card details.";
+"If you choose to export a calendar event or backup, that copy is saved to the location or calendar you select. Notifications are scheduled locally. You control calendar and notification permissions in iPhone Settings." = "If you choose to export a calendar event or backup, that copy is saved to the location or calendar you select. Notifications are scheduled locally. You control calendar and notification permissions in iPhone Settings.";
+"You can export your records from Settings. Deleting the app may remove locally stored records. Keep a backup before deleting the app." = "You can export your records from Settings. Deleting the app may remove locally stored records. Keep a backup before deleting the app.";
+"Subscriptions are not available right now. Please try again later." = "Subscriptions are not available right now. Please try again later.";
+"Could not load the annual subscription. Check your connection and retry." = "Could not load the annual subscription. Check your connection and retry.";
+"Apple could not verify this purchase. Please restore purchases or try again." = "Apple could not verify this purchase. Please restore purchases or try again.";
+"Purchase pending approval. Pro will unlock when Apple confirms payment." = "Purchase pending approval. Pro will unlock when Apple confirms payment.";
+"The purchase could not be completed. Please try again." = "The purchase could not be completed. Please try again.";
+"Your Pro subscription is restored." = "Your Pro subscription is restored.";
+"No active subscription was found for this Apple Account." = "No active subscription was found for this Apple Account.";
+"Could not restore purchases. Please try again." = "Could not restore purchases. Please try again.";
+"Could not open subscription settings. Please try again." = "Could not open subscription settings. Please try again.";
+"Read-only client" = "Read-only client";
+"Upgrade to Pro to manage more than 3 clients. Your records remain available to view and export." = "Upgrade to Pro to manage more than 3 clients. Your records remain available to view and export.";
+"Billing period" = "Billing period";
+"Yearly" = "Yearly";
+"Monthly" = "Monthly";
+"month" = "month";
+"Monthly subscription · automatically renews" = "Monthly subscription · automatically renews";
+"Subscribe monthly" = "Subscribe monthly";
+"Subscription" = "Subscription";
+"Could not load subscriptions. Check your connection and retry." = "Could not load subscriptions. Check your connection and retry.";
+
+"View income insights" = "View income insights";
+"Reporting period" = "Reporting period";
+"Year" = "Year";
+"Includes all payments and refunds in the selected calendar year, based on payment date and your device time zone." = "Includes all payments and refunds in the selected calendar year, based on payment date and your device time zone.";
+"Export summary" = "Export summary";
+"Transactions" = "Transactions";
+"Refunds" = "Refunds";
+"Net received" = "Net received";
+"Export income CSV" = "Export income CSV";
+"Exports recorded cash receipts in USD, with refunds as negative amounts. Includes client names, payment methods and payment notes. This is not a profit or tax calculation; expenses and other income are not included." = "Exports recorded cash receipts in USD, with refunds as negative amounts. Includes client names, payment methods and payment notes. This is not a profit or tax calculation; expenses and other income are not included.";
+"Could not export CSV. Please try again." = "Could not export CSV. Please try again.";
+
+"Purchase received. Subscription status is still updating. Please restore purchases in a moment." = "Purchase received. Subscription status is still updating. Please restore purchases in a moment.";
+
+"Delete session" = "Delete session";
+"Delete this session?" = "Delete this session?";
+"Cannot delete this session" = "Cannot delete this session";
+"This session has payment or refund records. Keep it and use a cancellation status to preserve your financial history." = "This session has payment or refund records. Keep it and use a cancellation status to preserve your financial history.";
+"For bookings created by mistake. Sessions with payment or refund records must be kept. Deleting a package session restores its credit and leaves package payments unchanged." = "For bookings created by mistake. Sessions with payment or refund records must be kept. Deleting a package session restores its credit and leaves package payments unchanged.";
+"This permanently removes this session and its notes, releases any package credit and removes its reminder. Other sessions in a recurring booking are kept." = "This permanently removes this session and its notes, releases any package credit and removes its reminder. Other sessions in a recurring booking are kept.";
+"A copy was added to Calendar. Delete that event separately in your calendar app." = "A copy was added to Calendar. Delete that event separately in your calendar app.";
+
+"Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Used and booked sessions both reserve package credits. A past session you manually set to Scheduled stays scheduled." = "Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Used and booked sessions both reserve package credits. A past session you manually set to Scheduled stays scheduled.";
+"Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Single sessions never use package credits or automatically record payments. A past session you manually set to Scheduled stays scheduled." = "Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Single sessions never use package credits or automatically record payments. A past session you manually set to Scheduled stays scheduled.";
+
+"Each booking reserves 1 package credit and reduces credits left. After the session ends, booked becomes used without deducting a second credit." = "Each booking reserves 1 package credit and reduces credits left. After the session ends, booked becomes used without deducting a second credit.";
+"Credits used" = "Credits used";
+
+"Manually kept scheduled" = "Manually kept scheduled";
+
+"Record payment now" = "Record payment now";
+
+"Amount received (USD)" = "Amount received (USD)";
+
+"Record money already received. Partial payments are welcome; the remainder stays outstanding. No money is charged by the app." = "Record money already received. Partial payments are welcome; the remainder stays outstanding. No money is charged by the app.";
+
+"Enter a valid amount and payment date." = "Enter a valid amount and payment date.";
+
+"Sell sessions" = "Sell sessions";
+
+"Session sale" = "Session sale";
+
+"Sale name" = "Sale name";
+
+"Number of sessions" = "Number of sessions";
+
+"Set expiration" = "Set expiration";
+
+"Payment received (USD)" = "Payment received (USD)";
+
+"Purchased sessions" = "Purchased sessions";
+
+"Sell one session or multiple sessions to book later. Leave payment at zero if unpaid, or enter a partial payment. Gifted sessions can have a zero price." = "Sell one session or multiple sessions to book later. Leave payment at zero if unpaid, or enter a partial payment. Gifted sessions can have a zero price.";
+
+"No purchased sessions yet. Sell one or more sessions to book later, or book a single session or free trial anytime." = "No purchased sessions yet. Sell one or more sessions to book later, or book a single session or free trial anytime.";
+
+"Available to refund" = "Available to refund";
+
+"session left" = "session left";
+
+"New single session" = "New single session";
+
+"Use purchased session" = "Use purchased session";
+
+"Choose purchased sessions" = "Choose purchased sessions";
+
+"Total purchased" = "Total purchased";
+
+"Sessions available" = "Sessions available";
+
+"Purchase details" = "Purchase details";
+
+"Sessions overview" = "Sessions overview";
+
+"purchased" = "purchased";
+
+"Payments to record" = "Payments to record";
+
+"Already collected? Record it here to keep your balance up to date." = "Already collected? Record it here to keep your balance up to date.";
+
+"Payment due" = "Payment due";
+
+"Payment history & refunds" = "Payment history & refunds";
+
+"Save session changes before recording payment." = "Save session changes before recording payment.";
+
+"Payment recorded" = "Payment recorded";
+
+"This year" = "This year";
+
+"vs. previous year" = "vs. previous year";
+
+"Training goal (optional)" = "Training goal (optional)";

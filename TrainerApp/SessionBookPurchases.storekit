@@ -1,0 +1,84 @@
+{
+  "identifier": "4066BA89-B548-4164-87C0-D942398202AA",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "2026101801",
+      "localizations": [
+        {
+          "description": "Unlimited clients for independent trainers.",
+          "displayName": "Session Book Pro",
+          "locale": "en_US"
+        }
+      ],
+      "name": "Session Book Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "24.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2026101810",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Manage unlimited training clients with Session Book Pro.",
+              "displayName": "Session Book Pro Annual",
+              "locale": "en_US"
+            },
+            {
+              "description": "管理不限数量的客户，按年订阅。",
+              "displayName": "Session Book Pro 年度订阅",
+              "locale": "zh_CN"
+            }
+          ],
+          "productID": "com.siaotsaitsai.sessionbook.pro.annual",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Session Book Pro Annual",
+          "subscriptionGroupID": "2026101801",
+          "type": "RecurringSubscription",
+          "winBackOffers": []
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2026101811",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Manage unlimited training clients with Session Book Pro.",
+              "displayName": "Session Book Pro Monthly",
+              "locale": "en_US"
+            },
+            {
+              "description": "管理不限数量的客户，按月订阅。",
+              "displayName": "Session Book Pro 月度订阅",
+              "locale": "zh_CN"
+            }
+          ],
+          "productID": "com.siaotsaitsai.sessionbook.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Session Book Pro Monthly",
+          "subscriptionGroupID": "2026101801",
+          "type": "RecurringSubscription",
+          "winBackOffers": []
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

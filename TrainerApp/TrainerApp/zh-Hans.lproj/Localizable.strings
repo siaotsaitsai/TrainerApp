@@ -1,0 +1,412 @@
+"Today" = "今天";
+"Calendar" = "课表";
+"Clients" = "客户";
+"Insights" = "统计";
+"Settings" = "设置";
+"Your day, in motion." = "让每一天，都有进步。";
+"THIS MONTH" = "本月";
+"Payments received" = "实收款";
+"Sessions today" = "今日课程";
+"Active clients" = "活跃客户";
+"Book session" = "预约课程";
+"Add client" = "添加客户";
+"Today's schedule" = "今日课表";
+"A fresh start for your business." = "从这里开始经营你的事业。";
+"A little breathing room." = "给今天留一点空闲。";
+"Add your first client, sell a package, then book a session." = "添加第一位客户，创建课包，然后预约课程。";
+"No sessions today. Book your next training session." = "今天暂无课程，来安排下一次训练吧。";
+"Add your first client" = "添加第一位客户";
+"Needs a little attention" = "待办提醒";
+"sessions left" = "节剩余";
+"Sessions left" = "剩余课数";
+"due" = "待付";
+"Expires soon" = "即将到期";
+"Expired" = "已过期";
+"Awaiting automatic completion" = "等待自动完成";
+"min" = "分钟";
+"Client" = "客户";
+"Personal training" = "私教训练";
+"Scheduled" = "已预约";
+"Completed" = "已完成";
+"Client cancelled" = "客户取消";
+"Trainer cancelled" = "教练取消";
+"No-show" = "未到场";
+"Date" = "日期";
+"Previous week" = "上一周";
+"Next week" = "下一周";
+"No sessions booked" = "暂无预约";
+"Make room for progress. Add a session to your calendar." = "让进步成为日常，在课表中添加课程。";
+"Your people, all in one place." = "客户资料，一目了然。";
+"Add your first client to get started." = "添加第一位客户，即可开始。";
+"Search clients" = "搜索客户";
+"Outstanding balance" = "待收款";
+"Payment" = "收款";
+"Packages" = "课包";
+"Sell package" = "出售课包";
+"No packages yet. Add a package before booking sessions." = "暂无课包，添加课包后即可预约课程。";
+"Session history" = "课程记录";
+"No sessions yet." = "暂无课程记录。";
+"Payment history" = "收款记录";
+"No payments yet." = "暂无收款记录。";
+"Client details" = "客户详情";
+"Edit" = "编辑";
+"min / session" = "分钟／节";
+"remaining" = "剩余";
+"used" = "已使用";
+"booked" = "已预约";
+"paid" = "已付";
+"Expires" = "到期日";
+"Period" = "统计周期";
+"This week" = "本周";
+"This month" = "本月";
+"vs. previous period" = "较上一周期";
+"USD" = "美元";
+"Session revenue" = "课程收入";
+"Includes charged cancellations" = "含扣课的取消记录";
+"Sessions completed" = "已完成课程";
+"In this period" = "当前周期内";
+"Remaining sessions" = "剩余课程";
+"All-time balances, including expired packages." = "累计余额，包含已过期课包。";
+"Payments follow the payment date. Session revenue follows the session date and package price. Refunds reduce payments received; these figures are not profit." = "实收款按收款日期统计，课程收入按上课日期和课包价格计算。退款会减少实收款；这些数据不代表利润。";
+"Cancel" = "取消";
+"Save" = "保存";
+"Client information" = "客户资料";
+"Full name" = "姓名";
+"Email" = "电子邮箱";
+"Phone" = "电话";
+"Training" = "训练";
+"Training goal" = "训练目标";
+"Notes" = "备注";
+"Edit client" = "编辑客户";
+"Package details" = "课包详情";
+"Package name" = "课包名称";
+"Sessions" = "课程节数";
+"Minutes per session" = "每节时长（分钟）";
+"Total price (USD)" = "总价（美元）";
+"Purchased" = "购买日期";
+"Package expires" = "设置有效期";
+"Expiry date" = "到期日期";
+"Paid now (USD)" = "本次实收（美元）";
+"Initial payment" = "首次收款";
+"Leave payment at zero for an unpaid package. Gifted sessions can have a zero price." = "未付款可填写 0；赠送课包的总价也可设为 0。";
+"Method" = "付款方式";
+"Cash" = "现金";
+"Card" = "银行卡";
+"Other" = "其他";
+"Package" = "课包";
+"Choose package" = "选择课包";
+"Record a refund" = "记录退款";
+"Amount (USD)" = "金额（美元）";
+"Payment date" = "收付款日期";
+"Record payments made outside the app. No money is transferred. Refunds do not change session credits." = "仅记录 App 外的收付款，不会转账。退款不改变剩余课数。";
+"Record payment" = "记录收款";
+"Who & when" = "客户与时间";
+"Choose client" = "选择客户";
+"available" = "可预约";
+"Starts" = "开始时间";
+"Duration (minutes)" = "时长（分钟）";
+"Weekly occurrences" = "每周重复次数";
+"Location" = "地点";
+"Session notes" = "备注";
+"Each completed session uses 1 credit, regardless of duration. Booking reserves a credit without deducting it." = "每次完成课程扣 1 节，与时长无关。预约会占用可预约名额，但不会扣课。";
+"Edit session" = "编辑课程";
+"Time" = "时间";
+"Duration" = "时长";
+"Status" = "课程状态";
+"Deduct 1 session" = "扣除 1 节课";
+"Credits deducted" = "本次扣课";
+"Save session update" = "保存课程更新";
+"After the session" = "课后记录";
+"Saving completed deducts one session once. Restore to Scheduled to undo the deduction. Trainer cancellations never deduct credits." = "保存为已完成后扣除 1 节，不会重复扣课。恢复为已预约即可撤销扣课；教练取消不扣课。";
+"Edit booking" = "编辑预约";
+"Session details" = "课程详情";
+"Preferences" = "偏好设置";
+"Language" = "语言";
+"System default" = "跟随系统";
+"24-hour time" = "24 小时制";
+"Currency" = "货币";
+"Export backup (JSON)" = "导出备份（JSON）";
+"Try sample data" = "体验示例数据";
+"Your data" = "数据管理";
+"Saved on this device. No account or cloud sync. Export a backup regularly; deleting the app may remove local data." = "数据保存在本机，暂无账号或云同步。请定期导出备份；删除 App 可能会移除本地数据。";
+"About" = "关于";
+"Built for independent trainers. One place for your clients, sessions and payments." = "专为独立私教打造，集中管理客户、课程和收款。";
+"Done" = "完成";
+"Try sample data?" = "载入示例数据？";
+"Load samples" = "载入示例";
+"Adds three fictional clients with packages, payments and sessions to your empty workspace." = "将在空白工作区中添加三位虚构客户及其课包、收款和课程记录。";
+"Something needs attention" = "请检查";
+"OK" = "好";
+"Enter a client name." = "请输入客户姓名。";
+"Check the package name, sessions, duration and amounts." = "请检查课包名称、节数、时长和金额。";
+"Expiry must be on or after the purchase date." = "到期日不得早于购买日期。";
+"Enter a valid amount." = "请输入有效金额。";
+"Payment exceeds the balance, or refund exceeds payments received." = "收款超过待付金额，或退款超过已收金额。";
+"Choose a package and valid duration." = "请选择课包并输入有效时长。";
+"Not enough unbooked sessions. Add a package or release an existing booking." = "可预约节数不足，请添加课包或取消已有预约。";
+"Choose a valid date." = "请选择有效日期。";
+"The session must fall within the package dates." = "课程日期必须在课包有效期内。";
+"This time overlaps another booking. Choose a different time." = "此时间与已有预约冲突，请选择其他时间。";
+"Restore the session to scheduled before editing." = "请先将课程恢复为已预约，再编辑。";
+"Session not found." = "未找到课程。";
+"No unbooked sessions remaining in this package." = "此课包没有尚未预约的剩余课程。";
+"Future sessions cannot be marked completed or no-show." = "未来的课程不能标记为已完成或未到场。";
+"This backup version is not supported." = "不支持此备份版本。";
+"Unable to open saved data. Your original file is preserved." = "无法打开已保存的数据，原始文件已保留。";
+"Could not save changes. Please try again." = "无法保存更改，请重试。";
+"Enter valid numbers. Use at most two decimal places for USD." = "请输入有效数字，美元金额最多保留两位小数。";
+"Could not export the backup. Please try again." = "无法导出备份，请重试。";
+"Sample mode" = "示例模式";
+"Exit samples" = "退出示例";
+"Explore three fictional clients. Sample changes stay in memory; exit samples to return to your empty workspace." = "体验三位虚构客户。示例更改仅保留在内存中；退出示例即可返回空白工作区。";
+"Package session" = "课包课";
+"Single session" = "单次付费课";
+"Free trial" = "免费体验课";
+"Choose a package or paid single session." = "请选择课包或单次付费课程。";
+"Choose a client and valid duration." = "请选择客户并输入有效时长。";
+"Choose a client and enter a valid session price." = "请选择客户并输入有效的课程价格。";
+"Refund existing payments before reducing the session price." = "请先退还已收款，再将课程价格降低到已收款以下。";
+"Payment for" = "收款对象";
+"Session" = "课程";
+"New single session" = "新增单次付费课";
+"Session price (USD)" = "单节价格（美元）";
+"Same as payment" = "与本次收款相同";
+"Creates a single-session booking with this payment. No package needed." = "将同时创建单次课程预约并记录收款，无需购买课包。";
+"Session type" = "课程类型";
+"Session price" = "单节价格";
+"Free trials never charge money or deduct package credits." = "免费体验课不收款，也不扣除课包节数。";
+"No package needed. Record payment now or after the session from the client page." = "无需课包，可在客户页面记录课前或课后的收款。";
+"Enter a price above zero, or choose Free trial." = "请输入大于 0 的价格，或选择免费体验课。";
+"Charge session fee" = "收取本节费用";
+"Single sessions never deduct package credits. Completed paid sessions count toward revenue. Free or waived sessions earn zero; existing payments remain refundable." = "单次课程不扣课包。已完成的付费课程计入课程收入；免费或免单课程的收入为零，已收款仍可记录退款。";
+"No packages yet. Book a single session or free trial anytime." = "暂无课包，仍可随时预约单次付费课或免费体验课。";
+"Add your first client, then book a paid session, package session or free trial." = "添加第一位客户后，即可预约单次付费课、课包课或免费体验课。";
+"Package credits left" = "剩余课包节数";
+"Explore fictional clients. Sample changes stay in memory; exit samples to return to your real workspace." = "体验虚构客户。示例更改仅保留在内存中；退出示例即可返回你的正式数据。";
+"Tap to enter an amount in US dollars." = "点击输入美元金额。";
+"Collected before this entry" = "本次记录前已收";
+"Outstanding before this entry" = "本次记录前待收";
+"Current account summary" = "当前账目";
+"Summary only. Enter the new payment or refund below." = "此处仅供查看，请在下方填写本次收款或退款。";
+"Refund amount (USD)" = "本次退款金额（美元）";
+"Amount received this time (USD)" = "本次收款金额（美元）";
+"Enter only the amount returned to the client this time." = "请填写本次实际退还给客户的金额。";
+"Enter only the money received from the client this time." = "请填写本次实际收到的款项，而不是累计已收金额。";
+"Refund date" = "退款日期";
+"New refund" = "新增退款记录";
+"New payment" = "新增收款记录";
+"Record refund" = "记录退款";
+"Every session. Every dollar." = "每一节课，每一笔账。";
+"Stay on schedule. Keep payments in check." = "课程有安排，收款有记录。";
+"Changes saved" = "已保存更改";
+"Session status & notes" = "课程状态与备注";
+"Session reminders" = "课前提醒";
+"Remind me" = "提醒时间";
+"Reminders queued" = "已安排的提醒";
+"Notifications are blocked. Allow notifications in iPhone Settings to receive session reminders." = "通知权限已关闭，请在 iPhone 设置中允许通知，以接收课前提醒。";
+"Open iPhone Settings" = "打开 iPhone 设置";
+"Send test notification" = "发送测试通知";
+"Test notification scheduled. Arrives in 5 seconds." = "已安排测试通知，约 5 秒后送达。";
+"Retry reminders" = "重新安排提醒";
+"Before your sessions" = "课前提醒设置";
+"Local alerts work when the app is closed. The next 60 reminders refresh when you open the app. If the lead time has passed, the alert arrives at session start. Focus and notification settings may silence alerts." = "关闭 App 后，本机提醒仍会送达。每次打开 App 会更新最近 60 条提醒。如已过提前提醒时间，将在上课时提醒。专注模式和系统通知设置可能使提醒静音。";
+"Reminder" = "课前提醒";
+"Use default" = "使用默认设置";
+"No reminder" = "不提醒";
+"At session start" = "上课时";
+"1 hour before" = "提前 1 小时";
+"1 day before" = "提前 1 天";
+"minutes before" = "分钟前";
+"Enable session reminders" = "开启课前提醒";
+"Before this session" = "本节课提醒";
+"Changing or cancelling a booking updates its reminder automatically." = "修改预约时间或取消课程后，提醒会自动更新。";
+"Enable notifications to receive reminders. This preference is saved with your session." = "开启通知后才能收到提醒。此设置会随课程保存。";
+"Could not enable notifications. Please try again." = "无法启用通知，请重试。";
+"Some reminders could not be scheduled. Open Settings to retry." = "部分提醒未能安排，请在设置中重试。";
+"Could not send the test notification. Please try again." = "无法发送测试通知，请重试。";
+"Add to calendar" = "添加到日历";
+"Add another calendar copy" = "再次添加日历副本";
+"Add updated calendar copy" = "添加更新后的日历副本";
+"Last added" = "上次添加";
+"Your calendar" = "系统日历";
+"Choose a calendar and confirm in the next screen. Exports the saved session. Calendar copies do not sync with later edits or cancellations." = "在下一页选择日历并确认添加。将导出已保存的课程；之后修改或取消课程不会自动同步到日历副本。";
+"Add another calendar copy?" = "再次添加日历副本？";
+"Continue to calendar" = "继续添加到日历";
+"This session was previously added. A new copy will not update or remove the old calendar event." = "这节课之前已添加过。新副本不会更新或删除旧的日历事件。";
+"Cancelled and no-show sessions cannot be added to Calendar." = "已取消或未到场的课程不可添加到日历。";
+"Your plan" = "当前方案";
+"Free" = "免费版";
+"Checking subscription\u2026" = "正在检查订阅…";
+"Unlimited clients with your Pro subscription." = "Pro 订阅支持管理不限数量的客户。";
+"Manage 3 clients for free. Upgrade to Pro for unlimited clients." = "免费管理 3 位客户，升级 Pro 可管理不限数量的客户。";
+"Manage Pro subscription" = "管理 Pro 订阅";
+"Upgrade to Pro" = "升级 Pro";
+"Your first 3 clients remain editable. Other clients stay available to view and export." = "前 3 位客户仍可编辑，其他客户资料仍可查看和导出。";
+"More clients. Choose the plan that fits." = "更多客户，选择适合你的订阅方案。";
+"Unlimited clients" = "不限客户数量";
+"Keep all your session and payment tools" = "保留全部课程与收款管理功能";
+"Your existing data stays with you" = "原有客户数据持续保留";
+"Pro is active" = "Pro 已启用";
+"Manage subscription" = "管理订阅";
+"year" = "年";
+"Annual subscription \u00b7 automatically renews" = "年度订阅 · 自动续费";
+"Subscribe annually" = "按年订阅";
+"Annual subscription" = "年度订阅";
+"Price unavailable" = "暂时无法获取价格";
+"Retry loading price" = "重新获取价格";
+"Restore purchases" = "恢复购买";
+"Payment is charged to your Apple Account when you confirm. The subscription renews at the selected interval unless cancelled at least 24 hours before the current period ends. Manage or cancel in your App Store account settings." = "确认购买后将通过 Apple 账户扣款。除非至少在当前订阅到期前 24 小时取消，否则将按所选周期自动续费。可在 App Store 账户设置中管理或取消订阅。";
+"Free includes 3 editable clients. If Pro expires, your first 3 clients remain editable; all other records can still be viewed and exported." = "免费版支持编辑 3 位客户。Pro 到期后，前 3 位客户仍可编辑，其余记录仍可查看和导出。";
+"Privacy policy" = "隐私政策";
+"Terms of use" = "使用条款";
+"Your subscription" = "订阅管理";
+"Client details, notes, sessions and payment records are stored locally on this device. Session Book has no developer-operated account server, advertising or analytics service." = "客户资料、备注、课程和收款记录保存在本机。Session Book 未接入开发者运营的账户服务器、广告或分析服务。";
+"Apple processes subscription payments. The app uses verified StoreKit subscription information to determine Pro access; it does not receive your payment card details." = "订阅付款由 Apple 处理。App 使用经验证的 StoreKit 订阅信息判断 Pro 权限，不会收到你的银行卡资料。";
+"If you choose to export a calendar event or backup, that copy is saved to the location or calendar you select. Notifications are scheduled locally. You control calendar and notification permissions in iPhone Settings." = "你选择导出日历事件或备份时，副本会保存到指定位置或日历。通知在本机安排，日历及通知权限可在 iPhone 设置中控制。";
+"You can export your records from Settings. Deleting the app may remove locally stored records. Keep a backup before deleting the app." = "可在设置中导出记录。删除 App 可能会移除本地资料，请在删除前备份。";
+"Subscriptions are not available right now. Please try again later." = "目前暂时无法购买订阅，请稍后重试。";
+"Could not load the annual subscription. Check your connection and retry." = "无法获取年度订阅，请检查网络后重试。";
+"Apple could not verify this purchase. Please restore purchases or try again." = "Apple 无法验证此次购买，请恢复购买或重试。";
+"Purchase pending approval. Pro will unlock when Apple confirms payment." = "购买正在等待批准，Apple 确认付款后将解锁 Pro。";
+"The purchase could not be completed. Please try again." = "购买未能完成，请重试。";
+"Your Pro subscription is restored." = "已恢复你的 Pro 订阅。";
+"No active subscription was found for this Apple Account." = "此 Apple 账户下未找到有效订阅。";
+"Could not restore purchases. Please try again." = "无法恢复购买，请重试。";
+"Could not open subscription settings. Please try again." = "无法打开订阅设置，请重试。";
+"Read-only client" = "只读客户";
+"Upgrade to Pro to manage more than 3 clients. Your records remain available to view and export." = "升级 Pro 即可管理超过 3 位客户。现有记录仍可查看和导出。";
+"Billing period" = "付费周期";
+"Yearly" = "按年";
+"Monthly" = "按月";
+"month" = "月";
+"Monthly subscription · automatically renews" = "月度订阅 · 自动续费";
+"Subscribe monthly" = "按月订阅";
+"Subscription" = "订阅";
+"Could not load subscriptions. Check your connection and retry." = "无法获取订阅，请检查网络后重试。";
+
+"View income insights" = "查看收入统计";
+"Reporting period" = "导出期间";
+"Year" = "年份";
+"Includes all payments and refunds in the selected calendar year, based on payment date and your device time zone." = "包含所选自然年的全部收款和退款，按收付款日期及设备时区统计。";
+"Export summary" = "导出汇总";
+"Transactions" = "交易笔数";
+"Refunds" = "退款";
+"Net received" = "净收款";
+"Export income CSV" = "导出收入 CSV";
+"Exports recorded cash receipts in USD, with refunds as negative amounts. Includes client names, payment methods and payment notes. This is not a profit or tax calculation; expenses and other income are not included." = "导出已记录的美元收付款，退款为负数。包含客户姓名、付款方式和收付款备注。此数据不代表利润或应纳税额，未包含支出及其他收入。";
+"Could not export CSV. Please try again." = "无法导出 CSV，请重试。";
+
+"Purchase received. Subscription status is still updating. Please restore purchases in a moment." = "购买已收到，订阅状态仍在更新，请稍后点击恢复购买。";
+
+"Delete session" = "删除课程";
+"Delete this session?" = "删除这节课程？";
+"Cannot delete this session" = "无法删除这节课程";
+"This session has payment or refund records. Keep it and use a cancellation status to preserve your financial history." = "这节课程有关联的收款或退款记录。为保留完整账目，请保留课程并使用取消状态。";
+"For bookings created by mistake. Sessions with payment or refund records must be kept. Deleting a package session restores its credit and leaves package payments unchanged." = "用于删除误建的预约。有关联收付款记录的课程需保留。删除课包课程会释放对应课时，课包收付款保持不变。";
+"This permanently removes this session and its notes, releases any package credit and removes its reminder. Other sessions in a recurring booking are kept." = "将永久删除这节课程及其备注，释放对应课包课时，并移除课前提醒。重复预约中的其他课程会保留。";
+"A copy was added to Calendar. Delete that event separately in your calendar app." = "这节课程曾添加到日历，请在日历 App 中另行删除该日程。";
+
+"Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Used and booked sessions both reserve package credits. A past session you manually set to Scheduled stays scheduled." = "课程结束后会自动标记完成；App 关闭期间结束的课程，会在重新打开时更新。你可随时修改状态。已使用和已预约的课程均占用课包课时。手动改为“已预约”的过期课程会保持该状态。";
+"Sessions complete automatically after their end time when the app is open or reopened. You can change the status anytime. Single sessions never use package credits or automatically record payments. A past session you manually set to Scheduled stays scheduled." = "课程结束后会自动标记完成；App 关闭期间结束的课程，会在重新打开时更新。你可随时修改状态。单次课不占用课包课时，也不会自动记录收款。手动改为“已预约”的过期课程会保持该状态。";
+
+"Each booking reserves 1 package credit and reduces credits left. After the session ends, booked becomes used without deducting a second credit." = "每次预约占用 1 个课包课时，剩余课时随之减少。课程结束后，由“已预约”转为“已使用”，不会重复扣减。";
+"Credits used" = "已使用课时";
+
+"Active" = "使用中";
+
+"Archived" = "已归档";
+
+"Archived client" = "已归档客户";
+
+"Archive client" = "归档客户";
+
+"Restore client" = "恢复客户";
+
+"Delete client" = "删除客户";
+
+"Delete this client permanently?" = "永久删除这位客户？";
+
+"Restore client?" = "恢复这位客户？";
+
+"Archive client?" = "归档这位客户？";
+
+"Archiving keeps all records and frees a client slot. Clients with payments can only be archived." = "归档保留所有记录并释放一个客户名额。有收付款记录的客户只能归档。";
+
+"This permanently deletes this client, their packages, sessions, notes and reminders. Calendar copies must be deleted separately." = "这会永久删除客户及其课包、课程、备注和提醒。已添加到系统日历的副本需要另行删除。";
+
+"This client will return to your active list and use one client slot." = "客户将回到使用中列表，并占用一个客户名额。";
+
+"All records will be kept. Cancel or complete upcoming sessions first. You can restore this client later." = "所有记录都会保留。请先取消或完成未结束的预约。之后可随时恢复客户。";
+
+"Cancel or complete upcoming sessions before archiving this client." = "请先取消或完成未结束的预约，再归档客户。";
+
+"Clients with payment or refund records can only be archived." = "有收付款或退款记录的客户只能归档。";
+
+"No archived clients" = "暂无已归档客户";
+"No active clients" = "暂无使用中的客户";
+
+"Manually kept scheduled" = "手动保留为预约中";
+
+"Record payment now" = "同时记录收款";
+
+"Amount received (USD)" = "本次收款金额（美元）";
+
+"Record money already received. Partial payments are welcome; the remainder stays outstanding. No money is charged by the app." = "仅记录已经收到的钱。支持部分付款，未付部分计入待收款。App 不会实际扣款。";
+
+"Enter a valid amount and payment date." = "请输入有效的金额和收款日期。";
+
+"Sell sessions" = "出售课次";
+
+"Session sale" = "课次销售";
+
+"Sale name" = "销售名称";
+
+"Number of sessions" = "课次数量";
+
+"Set expiration" = "设置有效期";
+
+"Payment received (USD)" = "已收金额（美元）";
+
+"Purchased sessions" = "已购课次";
+
+"Sell one session or multiple sessions to book later. Leave payment at zero if unpaid, or enter a partial payment. Gifted sessions can have a zero price." = "可出售单节或多节课次，之后再预约。未收款可留为零，也支持部分付款。赠课总价可设为零。";
+
+"No purchased sessions yet. Sell one or more sessions to book later, or book a single session or free trial anytime." = "暂无已购课次。可先出售单节或多节课次再预约，也可直接预约单次付费课或免费体验课。";
+
+"Available to refund" = "可退款金额";
+
+"session left" = "节剩余";
+
+"New single session" = "新购单次课";
+
+"Use purchased session" = "使用已购课次";
+
+"Choose purchased sessions" = "选择已购课次";
+
+"Total purchased" = "总购买课次";
+
+"Sessions available" = "可预约课次";
+
+"Purchase details" = "购买明细";
+
+"Sessions overview" = "课次总览";
+
+"purchased" = "已购买";
+
+"Payments to record" = "收款待办";
+
+"Already collected? Record it here to keep your balance up to date." = "已经收钱了？在这里记一笔，保持账目准确。";
+
+"Payment due" = "待记录收款";
+
+"Payment history & refunds" = "收款与退款";
+
+"Save session changes before recording payment." = "请先保存课程修改，再记录收款。";
+
+"Payment recorded" = "已记录收款";
+
+"This year" = "今年";
+
+"vs. previous year" = "较上一年";
+
+"Training goal (optional)" = "训练目标（选填）";
